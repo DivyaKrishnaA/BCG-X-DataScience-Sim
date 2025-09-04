@@ -23,19 +23,19 @@ PowerCo suspects price sensitivity is causing customers to switch providers. My 
 
 ## 📁 Repository Structure
 
-BCG-X-DataScience-Sim/
-├── data/
-│   ├── raw/                  # Original datasets from the simulation
-│   └── processed/            # Cleaned and transformed data
-├── notebooks/
-│   ├── 01_exploration.ipynb  # Initial data exploration and EDA
-│   ├── 02_modeling.ipynb     # Predictive modeling and evaluation
-│   └── 03_insights.ipynb     # Strategic recommendations and conclusions
-├── models/
-│   └── churn_model.pkl       # Saved model artifacts (if applicable)
-├── reports/
-│   └── summary.pdf           # Final report or presentation slides
-├── README.md                 # Project overview and instructions
-└── requirements.txt          # List of dependencies
+BCG-X-DataScience-Sim/  
+├── data/  
+│   ├── raw/                  # Original datasets from the simulation  
+│   └── processed/            # Cleaned and transformed data  
+├── notebooks/  
+│   ├── 01_exploration.ipynb  # Initial data exploration and EDA  
+│   ├── 02_modeling.ipynb     # Predictive modeling and evaluation  
+│   └── 03_insights.ipynb     # Strategic recommendations and conclusions  
+├── models/  
+│   └── churn_model.pkl       # Saved model artifacts (if applicable)  
+├── reports/  
+│   └── summary.pdf           # Final report or presentation slides  
+├── README.md                 # Project overview and instructions  
+└── requirements.txt          # List of dependencies  
 
 
